@@ -109,9 +109,11 @@ jobs:
 
 ## Step 5: Time for some Actions!
 1. Make some changes in your GitHub repository, and commit the changes! 
-2. Go to "Actions" and you should be able it running!
+2. Go to "Actions" and you should be able it running! 
 
+You should be able to receive a notification from Twilio like whenever an update has been made:
 
+![](Twilio.jpeg)
 
 
 
