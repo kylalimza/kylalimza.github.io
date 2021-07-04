@@ -1,0 +1,18 @@
+name: When one of the following events occur in the master branch, a message is sent to the Whatsapp.
+on: [push, pull_request, issues, fork, watch]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: whatsapp-notify
+   
+        env:
+          account_sid: ${{ secrets.ACCOUNT_SID }}
+          auth_token: ${{ secrets.AUTH_TOKEN }}
+          to_whatsapp_no: ${{ secrets.TO_WHATSAPP_NO }}
+        uses: kylalimza/CluelessDevOps@main
+      - name : Run
+        run: echo 'Start!'
+      
+
