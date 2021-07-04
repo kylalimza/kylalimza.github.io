@@ -111,8 +111,8 @@ jobs:
 1. Make some changes in your GitHub repository, and commit the changes! 
 2. Go to "Actions" and you should be able it running! 
 
-You should be able to receive a notification from Twilio like whenever an update has been made:
-<img src="Twilio.jpeg" width="250">
+You should be able to receive a notification from Twilio like whenever an update has been made:<br>
+<img src="Twilio.jpeg" width="250" align="center">
 
 
 
