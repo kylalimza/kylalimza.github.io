@@ -11,7 +11,7 @@ jobs:
           account_sid: ${{ secrets.ACCOUNT_SID }}
           auth_token: ${{ secrets.AUTH_TOKEN }}
           to_whatsapp_no: ${{ secrets.TO_WHATSAPP_NO }}
-        uses: kylalimza/CluelessDevOps@main
+        uses: kylalimza/kylalimza.github.io@main
       - name : Run
         run: echo 'Start!'
       
