@@ -12,8 +12,18 @@
 
 ### Step 3: Clone the repository!
 -Launch your terminal/command prompt using Virtual Studio Code (eg. Open Virtual Studio Code > Terminal > New Terminal)<br>
--Go to the folder where you want to store your project, and clone the new repository by running this command: <br><br>
-<b>`~ $ git clone https://github.com/username/username.github.io`</b><br>
+
+Step 3.1: Type the following to initialise your Git:<br>
+<b>`git init`</b><br><br>
+
+Step 3.2: Copy your GitHub repository URL (eg. My repository URL should look like this https://github.com/kylalimza/kylalimza.github.io) to this code:<br>
+<b>`git remote add origin https://github.com/username/username.github.io`</b><br><br>
+  
+Step 3.3: Run the following code:<br>
+<b>`git fetch`</b><br><br>
+
+Step 3.4: Go to the folder where you want to store your project, and clone the new repository by running this command: <br>
+<b>`git clone https://github.com/username/username.github.io`</b><br>
 ###### <i>Note: Remember to replace the 'username' with your own username</i> <br><br>
 
 ### Step 4: Import the downloaded template!
