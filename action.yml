@@ -1,0 +1,12 @@
+  
+name: "Push notification on Whatsapp"
+description: "Triggers a Private Message to the My Whatsapp lah when code is pushed, pull request fork, whatever in the master branch"
+author: "Glennpedley"
+branding:
+  icon: message-square
+  color: blue
+
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
