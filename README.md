@@ -3,8 +3,8 @@
 
 ### Step 1: Download a portfolio template that you like!
 
--Search for a template @ Themezy, Jerkyll, HTML5, Bootstrapmade. <br>
--Download template (in zip file), save the uncompressed zip file to your local drive. <br>
+-Search for a template @ [Themezy](http://themezy.com), [Jekyll](http://jekyllrb.com), [HTML5 Up](http://HTML5up.net), [Bootstrapmade](http://bootstrapmade.com) and other websites. <br>
+-Download template (in zipped file), save the uncompressed zip file to your local drive. <br>
 -Create a directory to store your file. I created mine in Desktop/GitHub/Repository/Portfolio <br><br>
 
 ### Step 2: Create a repository!
@@ -32,9 +32,7 @@
 
 ### Step 6: It's up on your page!
 -Navigate to http://username.github.io to see your newly created online portfolio.
+-Check out my page @ https://kylalimza.github.io!
 
 
 
-
-https://pages.github.com/
-GitPages CI/CD Project
