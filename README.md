@@ -112,7 +112,7 @@ jobs:
 2. Go to "Actions" and you should be able it running! 
 
 You should be able to receive a notification from Twilio like whenever an update has been made:
-<img src="Twilio" width="250">
+<img src="Twilio.jpeg" width="250">
 
 
 
