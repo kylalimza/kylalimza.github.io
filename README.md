@@ -48,7 +48,7 @@ I created this repository to share my projects and to journey the milestones I'v
 2. Check out my page @ https://kylalimza.github.io!
 <br><br><br>
 
-
+![](ssportfolio.JPG)
 
 <h1 align="center">Bonus: How to get Whatsapp Alert Notification?</h1>
 
