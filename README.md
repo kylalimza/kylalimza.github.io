@@ -16,7 +16,8 @@
 Step 3.1: Type the following to initialise your Git:<br>
 <b>`git init`</b><br><br>
 
-Step 3.2: Copy your GitHub repository URL (eg. My repository URL should look like this https://github.com/kylalimza/kylalimza.github.io) to this code:<br>
+Step 3.2: Copy your GitHub repository URL<br>
+(eg. My repository URL should look like this https://github.com/kylalimza/kylalimza.github.io) to this code:<br>
 <b>`git remote add origin https://github.com/username/username.github.io`</b><br><br>
   
 Step 3.3: Run the following code:<br>
