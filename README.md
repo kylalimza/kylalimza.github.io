@@ -99,7 +99,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: whatsapp-notify
-        uses: <b>kylalimza/kylalimza.github.io@main </b>
+        uses: kylalimza/kylalimza.github.io@main
         env:
           ACCOUNT_SID: ${{ secrets.ACCOUNT_SID }}
           AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
@@ -111,8 +111,8 @@ jobs:
 1. Make some changes in your GitHub repository, and commit the changes! 
 2. Go to "Actions" and you should be able it running! 
 
-You should be able to receive a notification from Twilio like whenever an update has been made:<br>
-<img src="Twilio.jpeg" width="250" align="center">
+You should be able to receive a notification from Twilio as such whenever an update has been made:<br>
+<img src="Twilio.jpeg" width="250">
 
 
 
