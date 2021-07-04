@@ -113,7 +113,6 @@ jobs:
 
 You should be able to receive a notification from Twilio like whenever an update has been made:
 
-![](Twilio.jpeg)
 
 
 
