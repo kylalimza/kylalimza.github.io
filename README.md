@@ -1,7 +1,7 @@
 <h1 align="center">How to create a GitHub Portfolio Page?</h1>
 
 ## Introduction <br>
-Have you looked at Jekyll's web template on GitHub Pages? Found nothing that you like? Well, you can create a more aesthetic web page through this repository!
+Are you looking to build your own webpage? Found nothing that you like on GitHub Pages? Well, you can create a more aesthetic web page through this repository!
 I created this repository to share my projects and to journey the milestones I've made in NUS FinTech programme. Let's create a beautiful webpage together through this step-by step-guide!<br>
 
 ## Step 1: Download a portfolio template that you like!
