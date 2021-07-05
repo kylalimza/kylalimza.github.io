@@ -10,8 +10,9 @@ I created this repository to share my projects and to journey the milestones I'v
 2. Download template (in zipped file), save the uncompressed zip file to your local drive. <br>
 3. Create a directory to store your file. I created mine in Desktop/GitHub/Repository/Portfolio <br>
 
-## Step 2: Create a repository!
+## Step 2: Create a repository and a GitHub Page!
 1. Head over to GitHub and create a new public repository named <b>`username.github.io`</b>, where username is your username (or organization name) on GitHub. <br>
+2. Go to ```Settings > Pages``` and create your GitHub Page using this name <b>`username.github.io`</b> . 
 
 ## Step 3: Clone the repository!
 1. Launch your terminal/command prompt using Virtual Studio Code (eg. Open Virtual Studio Code > Terminal > New Terminal)<br>
