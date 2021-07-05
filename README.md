@@ -114,10 +114,6 @@ jobs:
 You should be able to receive a notification from Twilio as such whenever an update has been made:<br>
 <img src="Twilio.jpeg" width="250">
 
-## Invite your friends!
-You can always share your code with your peers so that they can get updated too! 
-<img src="whatsapp.JPG" width="650">
-
 
 
 
