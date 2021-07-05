@@ -55,8 +55,8 @@ I created this repository to share my projects and to journey the milestones I'v
 ## Introduction
 Wants to get updated? You can notified on Whatsapp whenever changes to push an update are made in your GitHub repositories.
 
-## Get Started
-Go to Marketplace and search for ```Whatsapp```, I forked from [here](https://github.com/ishween/whatsapp-push-notify-action).<br>
+## Tips
+Make use of Marketplace which has amazing resources! I searched for ```Whatsapp``` and I forked from [here](https://github.com/ishween/whatsapp-push-notify-action).<br>
 
 ## Step 1: Create a Twilio Account
 1. Create an account in Twilio from [here](https://www.twilio.com/)
