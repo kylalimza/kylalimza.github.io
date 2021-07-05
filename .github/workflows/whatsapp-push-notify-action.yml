@@ -1,5 +1,5 @@
 name: When one of the following events occur in the master branch, a message is sent to the Whatsapp.
-on: [push, pull_request, issues, fork, watch]
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
