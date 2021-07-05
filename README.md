@@ -116,7 +116,7 @@ You should be able to receive a notification from Twilio as such whenever an upd
 
 ## Invite your friends!
 You can always share your code with your peers so that they can get updated too! 
-![](whatsapp.JPG)
+<img src="whatsapp.JPG" width="650">
 
 
 
