@@ -53,10 +53,10 @@ I created this repository to share my projects and to journey the milestones I'v
 <h1 align="center">Bonus: How to get Whatsapp Alert Notification?</h1>
 
 ## Introduction
-You can notify the user on Whatsapp whenever changes are made in their github repositories.
+Wants to get updated? You can notified on Whatsapp whenever changes to push an update are made in your GitHub repositories.
 
 ## Get Started
-Go to Marketplace and search for 'whatsapp', I forked from [here](https://github.com/ishween/whatsapp-push-notify-action).<br>
+Go to Marketplace and search for ```Whatsapp```, I forked from [here](https://github.com/ishween/whatsapp-push-notify-action).<br>
 
 ## Step 1: Create a Twilio Account
 1. Create an account in Twilio from [here](https://www.twilio.com/)
@@ -92,7 +92,7 @@ TO_WHATSAPP_NO     | Your Whatsapp Number
 ```yaml
 name: Whatsapp Notification
 
-on: [push, pull_request, issues, fork, watch]
+on: [push]
 
 jobs:
   build:
