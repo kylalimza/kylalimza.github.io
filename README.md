@@ -54,7 +54,7 @@ I created this repository to share my projects and to journey the milestones I'v
 <h1 align="center">Bonus: How to get Whatsapp Alert Notification?</h1>
 
 ## Introduction
-Wants to get updated? You can notified on Whatsapp whenever changes to push an update are made in your GitHub repositories.
+Want to get updated? You can notified on Whatsapp whenever changes to push an update are made in your GitHub repositories.
 
 ## Tips
 Make use of Marketplace which has amazing resources! I searched for ```Whatsapp``` and I forked from [here](https://github.com/ishween/whatsapp-push-notify-action).<br>
